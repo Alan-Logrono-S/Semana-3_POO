@@ -28,7 +28,7 @@ public class Main {
         Cocinero[] cocineros = new Cocinero[3];
 
         for (int i = 0; i < cocineros.length; i++) {
-            System.out.println("Registro del cocinero #" + (i + 1));
+            System.out.println("Cocinero #" + (i + 1));
             System.out.print("Ingrese el nombre del cocinero: ");
             String nombre = sc.nextLine();
 
