@@ -45,7 +45,7 @@ public class Main {
             System.out.println();
         }
 
-        System.out.println("Informacion de los COcineros");
+        System.out.println("Alan Logroño Soria");
         for (Cocinero cocinero : cocineros) {
             cocinero.mostrarInformacion();
         }
